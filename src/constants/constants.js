@@ -4,7 +4,7 @@ export const projects = [
   {
     title: 'Notes App',
     description: "this app can helping you to seve your notes or and save it on browser local storage .",
-      image: '/images/noteapp.PNG',
+      image: '/noteapp.PNG',
       tags: ['HTML', 'CSS','JavaSctipt' ,'React'],
     source: 'https://github.com/ahmedzehry55/notesApp',
     visit: 'https://ahmedzehry55.github.io/notesApp/',
@@ -13,7 +13,7 @@ export const projects = [
   {
     title: 'Baba abdo restaurant menu',
     description:"this design is about restaurant menu ",
-    image: '/images/babaabdoRest.PNG',
+    image: '/babaabdoRest.PNG',
     tags: ['HTML', 'CSS','JavaSctipt' ,'React'],
     source: 'https://github.com/ahmedzehry55/babaAbdo',
     visit: 'https://ahmedzehry55.github.io/babaAbdo/',
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: 'GPT-3',
     description: "here we show the features of GPT-3 ai roobot.",
-      image: '/images/gpt3.PNG',
+      image: '/gpt3.PNG',
       tags: ['HTML', 'CSS','JavaSctipt' ,'React'],
     source: 'https://github.com/ahmedzehry55/gpt3',
     visit: 'https://ahmedzehry55.github.io/gpt3/',
@@ -31,20 +31,12 @@ export const projects = [
   {
     title: 'Hoo Bank',
     description: "This is a design for the hoo bank ",
-    image: '/images/hoobank.PNG',
+    image: '/hoobank.PNG',
     tags: ['HTML', 'CSS','JavaSctipt' ,'React'],
     source: 'https://github.com/ahmedzehry55/AZ_hoobank',
     visit: 'https://ahmedzehry55.github.io/AZ_hoobank/',
     id: 3,
   },
-];
-
-export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
 ];
 
 export const Tech = [
