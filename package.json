@@ -6,7 +6,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d out",
-    "dev": "next dev",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && next build && next export",
     "start": " next start"
   },
