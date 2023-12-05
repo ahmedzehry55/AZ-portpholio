@@ -7,8 +7,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d out",
     "dev": "next dev",
-    "build": "next build && next export",
-    "start": "export NODE_OPTIONS=--openssl-legacy-provider && next start"
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && next build && next export",
+    "start": " next start"
   },
   "dependencies": {
     "gh-pages": "^6.1.0",
