@@ -3,7 +3,7 @@ import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 export const projects = [
   {
     title: 'Notes App',
-    description: "this app can helping you to seve your notes or and save it on browser local storage .",
+    description: "this app can helping you to save your notes or and save it on browser local storage .",
       image: '/noteapp.png',
       tags: ['HTML', 'CSS','JavaSctipt' ,'React'],
     source: 'https://github.com/ahmedzehry55/notesApp',
