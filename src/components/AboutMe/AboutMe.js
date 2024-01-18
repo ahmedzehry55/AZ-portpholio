@@ -8,7 +8,7 @@ const Timeline = () => (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm an enthusiastic and detail-oriented Frontend developer can help you to build a modern and responsive web application .
+      I'm an enthusiastic and detail-oriented Full Stack developer can help you to build a modern and responsive web application .
       </SectionText>
       <Button onClick = { () => window.location = "https://rb.gy/sfa1hn"} >Contact</Button>
       <SectionDivider />
