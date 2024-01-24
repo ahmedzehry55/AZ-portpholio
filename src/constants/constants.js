@@ -47,6 +47,92 @@ export const projects = [
     id: 4,
   },
 ];
+export const Gprojects = [
+  {
+      image: '/1.jpg',
+      id: 0,
+  },
+  {
+      image: '/3.jpg',
+      id: 1,
+  },
+  {
+      image: '/3d-glass-window-logo-mockup.jpg',
+      id: 2,
+  },
+  {
+      image: '/25997-[Converted].jpg',
+      id: 3,
+  },
+  {
+      image: '/26245.jpg',
+      id: 4,
+  },
+  {
+      image: '/F.jpg',
+      id: 5,
+  },
+  {
+      image: '/logo8.jpg',
+      id: 6,
+  },
+  {
+      image: '/Logo-metal-.jpg',
+      id: 7,
+  },
+  {
+      image: '/Logo-metal-1.jpg',
+      id: 8,
+  },
+  {
+      image: '/OVWITI1kkp.jpg',
+      id: 9,
+  },
+  {
+      image: '/Shopping-Bag-PSD-MockUp.jpg',
+      id: 10,
+  },
+  {
+      image: '/Untitled-1-Recovered-Recovered2.jpg',
+      id:11,
+  },
+  {
+      image: '/Untitled-1x.jpg',
+      id: 12,
+  },
+  {
+      image: '/Untitled-13.jpg',
+      id: 13,
+  },
+  {
+      image: '/Untitled-14.jpg',
+      id: 14,
+  },
+  {
+      image: '/Untitled-123.jpg',
+      id: 15,
+  },
+  {
+      image: '/wet-wipe.jpg',
+      id: 16,
+  },
+  {
+      image: '/wet-wipe2.png',
+      id: 17,
+  },
+  {
+      image: '/wlogo1+.jpg',
+      id: 18,
+  },
+  {
+      image: '/google-form.png',
+      id: 19,
+  },
+  {
+      image: '/PRICE.png',
+      id:  20,
+  }
+];
 
 export const Tech = [
   { 
