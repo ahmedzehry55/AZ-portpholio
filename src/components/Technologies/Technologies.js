@@ -11,7 +11,7 @@ const Technologies = () =>  (
       From Design To Back-end 
     </SectionText>
     <List>
-      {Tech.map(({icon , title, text1,text2, i}) => (
+      {Tech.map(({icon , title, text1,text2,text4,text3, i}) => (
         <ListItem key ={i}>
         <picture >
           {icon}
@@ -19,7 +19,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>{title}</ListTitle>
           <ListParagraph>
-            {text1} <br /> {text2}
+            {text1} <br /> {text2} <br /> {text3} <br /> {text4}
+            
           </ListParagraph>
         </ListContainer>
       </ListItem>

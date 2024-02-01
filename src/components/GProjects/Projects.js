@@ -5,9 +5,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Gprojects } from '../../constants/constants';
 
 const GProjects = () => (
-  <Section nopadding id="projects">
+  <Section nopadding id="gprojects">
     <SectionDivider main />
-    <SectionTitle main>Graphic Projects</SectionTitle>
+    <SectionTitle main>Graphic Design</SectionTitle>
     <GridContainer>
       {Gprojects.map(({image, i }) => (
           <BlogCard  key={i}>

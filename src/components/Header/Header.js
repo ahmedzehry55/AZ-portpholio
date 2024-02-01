@@ -21,6 +21,11 @@ const Header = () =>  (
         </Link>
       </li>
       <li>
+        <Link href="#gprojects">
+          <NavLink>Graphic Design</NavLink>
+        </Link>
+      </li>
+      <li>
         <Link href="#tech">
           <NavLink>Technologies</NavLink>
         </Link>
